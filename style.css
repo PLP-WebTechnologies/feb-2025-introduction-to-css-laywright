@@ -1,0 +1,31 @@
+/* Class Selector */
+.title {
+    color: blue;
+    font-size: 24px;
+    text-align: center;
+    font-family: 'Arial', sans-serif;
+}
+
+/* ID Selector */
+#container {
+    background-color: lightgray;
+    padding: 20px;
+    margin: 20px;
+    border: 2px solid black;
+}
+
+/* Element Selector */
+p {
+    font-family: 'Verdana', sans-serif;
+    color: darkslategray;
+    line-height: 1.5;
+}
+
+/* Styling an Image */
+.styled-image {
+    width: 300px;
+    height: auto;
+    border: 5px solid gray;
+    margin: 10px auto;
+    display: block;
+}
